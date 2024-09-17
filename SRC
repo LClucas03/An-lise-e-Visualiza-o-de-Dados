@@ -1,0 +1,8 @@
+your_project/
+│
+├── src/
+│   ├── __init__.py
+│   └── plot_data.py
+│
+├── .gitignore
+└── README.md
